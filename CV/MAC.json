@@ -1,0 +1,165 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alfredo ",
+      "surnames": "Palacios Alvarez",
+      "title": "Management Information System Executive. Friki a tiempo completo",
+      "description": "Soy una persona que no puede parar de aprender, principalmente en el campo de la programación. Me gusta probar todo lo nuevo que ha salido e intentar lo imposible. \n\nHace 2 años descubrí Google Apps Script y su potencial en la creación de Web-Apps y ha día de hoy es el 100% de mi trabajo diario. He logrado combinarlo junto con el uso de SQL y ReactJS  para crear todo tipo de aplicaciones usando como base de datos Google Sheets guardando los datos en formato JSON.\n\nTambién gestiono los proyectos de inicio a fin, desde que el cliente llega con su petición, planificación, reparto de tareas, documentación, gestión de versiones, resolución de bugs....",
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Cognizant IT Services and IT Consulting"
+        },
+        "roles": [
+          {
+            "name": "Management Information System Executive",
+            "startDate": "2022-10-01",
+            "challenges": [
+              {
+                "description": "- Creación de web-apps sobre Google Apps Scripts.\n- Gestión de proyectos.\n- Soporte al cliente a través de ticketing\n- Documentación de aplicaciones y proyectos.\n- Resolución de bugs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Materialize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Apps Script",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DNS",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "status": "openToOffers"
+  }
+}
