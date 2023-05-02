@@ -160,6 +160,43 @@
     ]
   },
   "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Google Apps Script",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio",
+          "type": "technology"
+        },
+        {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    },
     "status": "openToOffers"
   }
 }
