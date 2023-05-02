@@ -11,9 +11,18 @@
       "title": "Management Information System Executive. Friki a tiempo completo",
       "description": "Soy una persona que no puede parar de aprender, principalmente en el campo de la programación. Me gusta probar todo lo nuevo que ha salido e intentar lo imposible. \n\nHace 2 años descubrí Google Apps Script y su potencial en la creación de Web-Apps y ha día de hoy es el 100% de mi trabajo diario. He logrado combinarlo junto con el uso de SQL y ReactJS  para crear todo tipo de aplicaciones usando como base de datos Google Sheets guardando los datos en formato JSON.\n\nTambién gestiono los proyectos de inicio a fin, desde que el cliente llega con su petición, planificación, reparto de tareas, documentación, gestión de versiones, resolución de bugs....",
       "location": {
+        "country": "Portugal",
+        "region": "Setúbal",
+        "municipality": "Moita",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alfredo-palacios/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -160,6 +169,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alfredo-palacios/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
