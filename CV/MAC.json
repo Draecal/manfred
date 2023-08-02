@@ -11,22 +11,16 @@
       "title": "Management Information System Executive. Friki a tiempo completo",
       "description": "Soy una persona que no puede parar de aprender, principalmente en el campo de la programación. Me gusta probar todo lo nuevo que ha salido e intentar lo imposible. \n\nHace 2 años descubrí Google Apps Script y su potencial en la creación de Web-Apps y ha día de hoy es el 100% de mi trabajo diario. He logrado combinarlo junto con el uso de SQL y ReactJS  para crear todo tipo de aplicaciones usando como base de datos Google Sheets guardando los datos en formato JSON.\n\nTambién gestiono los proyectos de inicio a fin, desde que el cliente llega con su petición, planificación, reparto de tareas, documentación, gestión de versiones, resolución de bugs....",
       "avatar": {
-        "alt": "Photo_1680702757399.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/02/46fe51a4-ead6-4017-b675-7f68cc1de88c_photo_1680702757399.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/05/02/46fe51a4-ead6-4017-b675-7f68cc1de88c_photo_1680702757399.png",
+        "alt": "Photo_1680702757399.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ-cQZqIFHGQ0RQAiR5L3rAAU)",
         "country": "Portugal",
         "region": "Setúbal",
-        "municipality": "Moita",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Moita"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alfredo-palacios/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -51,112 +45,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Portuguese",
-        "level": "Professional working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "PT",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Sheets",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Materialize",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Apps Script",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "web hosting",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
           "type": "technology"
         }
       },
@@ -168,7 +72,67 @@
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DNS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Apps Script",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Sheets",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Materialize",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -180,8 +144,58 @@
       },
       {
         "skill": {
-          "name": "DNS",
+          "name": "NodeJS",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "web hosting",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
         }
       }
     ]
@@ -190,8 +204,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alfredo-palacios/"
+          "URL": "https://www.linkedin.com/in/alfredo-palacios/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "draecal@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "914738963",
+          "countryCode": "+351"
         }
       ]
     },
@@ -233,5 +256,8 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me motiva el constante aprendizaje, el poner en practica todos los conocimientos que tengo y donde pueda dar buen uso de mi creatividad. Busco un trabajo que me permita balancear mi vida personal y laboral.\n\nNo me importa navegar por código legacy, tratar de entender su lógica y arreglar los bugs que pueda tener, lo considero muy estimulante y hace que las horas pasen volando.\n\nTambién me gustan los retos, siempre que alguien me plantea que algo no es posible, busco hasta en el fin del mundo si hay alguna forma antes de aceptar que simplemente no se puede sin haber buscado antes todas las opciones."
   }
 }
