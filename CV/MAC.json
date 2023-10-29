@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/alfredo-palacios/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/draecal"
       }
     ]
   },
@@ -218,6 +222,10 @@
         {
           "URL": "https://www.linkedin.com/in/alfredo-palacios/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/draecal",
+          "type": "twitter"
         }
       ],
       "contactMails": [
