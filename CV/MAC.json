@@ -33,6 +33,10 @@
       {
         "type": "twitter",
         "URL": "https://twitter.com/draecal"
+      },
+      {
+        "type": "other",
+        "URL": "https://code.theapicentral.com/The_API_Central"
       }
     ]
   },
