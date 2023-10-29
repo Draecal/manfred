@@ -150,6 +150,12 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
@@ -266,11 +272,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Google Apps Script",
+        "name": "JSON",
         "type": "technology"
       },
       {
         "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
         "type": "technology"
       },
       {
