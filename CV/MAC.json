@@ -264,6 +264,20 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Google Apps Script",
+        "type": "technology"
+      },
+      {
+        "name": "MongoDB",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me motiva el constante aprendizaje, el poner en practica todos los conocimientos que tengo y donde pueda dar buen uso de mi creatividad. Busco un trabajo que me permita balancear mi vida personal y laboral.\n\nNo me importa navegar por código legacy, tratar de entender su lógica y arreglar los bugs que pueda tener, lo considero muy estimulante y hace que las horas pasen volando.\n\nTambién me gustan los retos, siempre que alguien me plantea que algo no es posible, busco hasta en el fin del mundo si hay alguna forma antes de aceptar que simplemente no se puede sin haber buscado antes todas las opciones."
   }
 }
