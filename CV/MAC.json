@@ -27,6 +27,10 @@
         "URL": "https://www.linkedin.com/in/alfredo-palacios/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/Draecal"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/draecal"
       }
@@ -222,6 +226,10 @@
         {
           "URL": "https://www.linkedin.com/in/alfredo-palacios/",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Draecal",
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/draecal",
