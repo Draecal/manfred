@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -64,14 +64,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "PT",
+        "fullName": "Portugués",
         "level": "Professional working proficiency"
       }
     ],
@@ -242,12 +245,6 @@
       ],
       "contactMails": [
         "draecal@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "914738963",
-          "countryCode": "+351"
-        }
       ]
     },
     "preferences": {
@@ -283,7 +280,7 @@
         "Full-stack Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "searchingActively"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
